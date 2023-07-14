@@ -1,0 +1,30 @@
+body {
+    background-image: url('White Squiggles Superminimalism Linktree Background.png'); margin-left: auto; margin-right: auto; justify-content: center; width: 50%; font-family: Arial;
+
+}
+
+.my-nav{
+    text-align: center; 
+    font-size: x-large;
+}
+
+
+a:hover{
+    color: black;
+}
+
+dt {
+    padding-top: 20px;
+}
+
+dd {
+    padding-top: 10px;
+}
+
+ol {
+    padding-top: 20px;
+}
+
+li {
+    padding-top: 10px;
+}
